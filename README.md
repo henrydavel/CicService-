@@ -1,4 +1,4 @@
-# eoh_assessment
+# CicService 
 CicService for EOH-bit-platoon
 
 https://github.com/henrydavel/eoh_assessment.git
